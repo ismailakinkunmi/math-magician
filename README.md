@@ -1,4 +1,6 @@
-# Math-Magician-Setup
+# Math-Magician
+
+![Screenshot (117)](https://user-images.githubusercontent.com/37457094/155336853-bd8b8fd8-322c-4c60-8969-65483cca1dee.png)
 
 ## Tecnologies Used
 
@@ -7,6 +9,8 @@
 - Stylelint
 - Babel
 - Webpack
+  -Html
+  -Css
 
 ## Usage
 
