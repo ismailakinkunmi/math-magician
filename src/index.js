@@ -1,12 +1,10 @@
-/* eslint-disable react/jsx-key */
-
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App key="App" />
+    <App key="first" />
   </React.StrictMode>,
   document.getElementById("root"),
 );
