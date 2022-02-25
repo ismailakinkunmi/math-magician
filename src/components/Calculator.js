@@ -6,7 +6,7 @@ const Calculator = () => {
   const [state, setState] = useState({
     total: null,
     operation: null,
-    next: null
+    next: null,
   });
   const { total, next, operation } = state;
   const calculatorHandler = (e) => {
