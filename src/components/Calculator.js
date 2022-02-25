@@ -27,7 +27,6 @@ const Calculator = () => {
           role="button"
           tabIndex={0}
           onClick={calculatorHandler}
-          onKeyDown={calculatorHandler}
         >
           <div className="row">
             <button type="button" className="btn">
