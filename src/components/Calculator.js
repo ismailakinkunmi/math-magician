@@ -22,12 +22,7 @@ const Calculator = () => {
             ? `${total || ""} ${operation || ""} ${next || ""}`
             : 0}
         </div>
-        <div
-          className="input"
-          role="button"
-          tabIndex={0}
-          onClick={calculatorHandler}
-        >
+        <div className="input" aria-hidden onClick={calculatorHandler}>
           <div className="row">
             <button type="button" className="btn">
               AC
