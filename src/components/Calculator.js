@@ -30,69 +30,69 @@ const Calculator = () => {
           onKeyDown={calculatorHandler}
         >
           <div className="row">
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="AC">
               AC
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="+/-">
               +/-
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="%">
               %
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="÷">
               ÷
             </button>
           </div>
           <div className="row">
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="7">
               7
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="8">
               8
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="9">
               9
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="x">
               x
             </button>
           </div>
           <div className="row">
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="4">
               4
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="5">
               5
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="6">
               6
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="-">
               -
             </button>
           </div>
           <div className="row">
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="1">
               1
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="2">
               2
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="3">
               3
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="+">
               +
             </button>
           </div>
           <div className="row">
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="0">
               0
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key=".">
               .
             </button>
-            <button type="button" className="btn">
+            <button type="button" className="btn" key="=">
               =
             </button>
           </div>
