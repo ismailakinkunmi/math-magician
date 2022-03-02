@@ -1,15 +1,42 @@
+/* eslint-disable comma-dangle */
 /* eslint-disable react/prefer-stateless-function */
-/* eslint-disable react/button-has-type */
+
 import React from "react";
 import "./Calculator.css";
+import calculate from "../logic/calculate";
 
 class Calculator extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      total: null,
+      operation: null,
+      next: null,
+    };
+    this.calculatorHandler = this.calculatorHandler.bind(this);
+  }
+
+  calculatorHandler = (e) => {
+    const data = calculate(this.state, e.target.innerText);
+    this.setState(data);
+  };
+
   render() {
+    const { total, next, operation } = this.state;
     return (
       <main className="main">
         <div className="container">
-          <div className="output">0</div>
-          <div className="input">
+          <div className="output">
+            {`${total || ""} ${operation || ""} ${next || ""}`}
+          </div>
+          <div
+            className="input"
+            role="button"
+            tabIndex={0}
+            onClick={this.calculatorHandler}
+            onKeyDown={this.calculatorHandler}
+          >
             <div className="row">
               <button type="button" className="btn">
                 AC
@@ -35,7 +62,7 @@ class Calculator extends React.Component {
                 9
               </button>
               <button type="button" className="btn">
-                ×
+                x
               </button>
             </div>
             <div className="row">
