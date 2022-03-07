@@ -1,4 +1,5 @@
 # Math-Magician
+
 ![Screenshot (127)](https://user-images.githubusercontent.com/37457094/156982073-aa6d5290-69da-458f-9a28-579860d41a4f.png)
 
 ## Tecnologies Used
@@ -34,6 +35,10 @@ Start the app in the browser at localhost:3000
 ### `npm run build`
 
 Builds the app for production It correctly bundles React in production mode and optimizes the build for the best performance.Your app is ready to be deployed!
+
+## [Heroku](https://math-magician01.herokuapp.com/)
+
+## [Netlify](https://vigilant-bell-2fb9f4.netlify.app/)
 
 ## Authors
 
