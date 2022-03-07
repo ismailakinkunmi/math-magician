@@ -1,6 +1,5 @@
 # Math-Magician
-
-![Screenshot (117)](https://user-images.githubusercontent.com/37457094/155336853-bd8b8fd8-322c-4c60-8969-65483cca1dee.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/37457094/156982073-aa6d5290-69da-458f-9a28-579860d41a4f.png)
 
 ## Tecnologies Used
 
