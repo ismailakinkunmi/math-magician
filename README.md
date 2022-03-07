@@ -36,9 +36,9 @@ Start the app in the browser at localhost:3000
 
 Builds the app for production It correctly bundles React in production mode and optimizes the build for the best performance.Your app is ready to be deployed!
 
-## check this project on heroku [Heroku](https://math-magician01.herokuapp.com/)
+## This site was built using [Heroku](https://math-magician01.herokuapp.com/)
 
-## check this project on netlify [Netlify](https://vigilant-bell-2fb9f4.netlify.app/)
+## This site was built using [Netlify](https://vigilant-bell-2fb9f4.netlify.app/)
 
 ## Authors
 
