@@ -21,9 +21,7 @@
     "no-shadow": "off",
     "object-curly-newline": "off",
     "quotes": "off",
-    "react/jsx-one-expression-per-line": "off",
-    "comma-dangle": ["error", "never"],
-    "linebreak-style": "off"
+    "react/jsx-one-expression-per-line": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
 }
