@@ -5,13 +5,22 @@
 }
 
 .main {
-  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+
+.letDo {
+  font-size: 34px;
+  font-weight: 500;
+  margin-top: 20px;
 }
 
 .container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-flow: column wrap;
+  width: 50%;
 }
 
 .output {
@@ -21,14 +30,14 @@
   color: #fff;
   background-color: #57606a;
   padding: 40px;
-  width: 50%;
+  width: 100%;
   text-align: right;
 }
 
 .input {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 100%;
 }
 
 .row {
@@ -45,7 +54,7 @@
 
 .btn {
   font-size: 30px;
-  padding: 40px;
+  padding: 24px;
 }
 
 .row .btn:last-child {
