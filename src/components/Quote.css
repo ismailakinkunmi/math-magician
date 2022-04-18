@@ -1,0 +1,11 @@
+.quoteWrapper {
+  display: flex;
+  position: relative;
+  width: 60%;
+  margin: 100px 350px;
+}
+
+.quote {
+  font-size: 30px;
+  margin-top: 100px;
+}
