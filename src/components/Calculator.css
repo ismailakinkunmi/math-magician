@@ -55,6 +55,9 @@
 .btn {
   font-size: 30px;
   padding: 24px;
+  cursor: pointer;
+  outline: none;
+  background-color: #fff;
 }
 
 .row .btn:last-child {
