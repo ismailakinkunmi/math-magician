@@ -9,8 +9,8 @@
 - Stylelint
 - Babel
 - Webpack
-  -Html
-  -Css
+- HTML
+- CSS
 
 ## Usage
 
@@ -42,7 +42,7 @@ Builds the app for production It correctly bundles React in production mode and 
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 - Twitter: [@AkinkunmiAbiola](https://twitter.com/AkinkunmiAbiola)
-- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/)
+- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
 ## Show your support
 
