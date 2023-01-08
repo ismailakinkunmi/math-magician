@@ -12,6 +12,8 @@
 - HTML
 - CSS
 
+## This site was deploy on github [click here](http://ismailakinkunmi.github.io/math-magician)
+
 ## Usage
 
 ``` start by cloning this repository by running:
@@ -37,10 +39,6 @@ Start the app in the browser at localhost:3000
 ### `npm run build`
 
 Builds the app for production It correctly bundles React in production mode and optimizes the build for the best performance.Your app is ready to be deployed!
-
-## This site was built using [Heroku](https://math-magician01.herokuapp.com/)
-
-## This site was built using [Netlify](https://vigilant-bell-2fb9f4.netlify.app/)
 
 ## Authors
 
