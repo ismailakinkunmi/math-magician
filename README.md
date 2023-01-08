@@ -14,15 +14,17 @@
 
 ## Usage
 
-- start by cloning this repository by running:
+``` start by cloning this repository by running:
 
-- git@github.com:ismailakinkunmi/math-magicians-setup.git
+git@github.com:ismailakinkunmi/math-magicians-setup.git
 
-- cd to the folder
+cd to the folder
 
-- cd Project-math-magicians-setup
+cd Project-math-magicians-setup
 
-- npm install
+npm install
+
+```
 
 ## Used Available Scripts
 
@@ -45,7 +47,6 @@ Builds the app for production It correctly bundles React in production mode and 
 👤 **Adekunle Ismail Akinkunmi**
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
-- Twitter: [@AkinkunmiAbiola](https://twitter.com/AkinkunmiAbiola)
 - LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
 ## Show your support

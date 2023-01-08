@@ -9,6 +9,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 20px 50px;
+  height: calc(100vh - 100px);
 }
 
 .letDo {
@@ -24,7 +25,7 @@
 }
 
 .output {
-  line-height: 1.5;
+  line-height: 1.1;
   font-size: 24px;
   font-family: Arial, Helvetica, sans-serif;
   color: #fff;
@@ -54,7 +55,7 @@
 
 .btn {
   font-size: 30px;
-  padding: 24px;
+  padding: 16px 24px;
 }
 
 .row .btn:last-child {
