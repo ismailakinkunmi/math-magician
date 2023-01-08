@@ -55,4 +55,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Hat tip 👒 to microverse, code reviewers and my coding partners for the support.
+Hat tip 👒 to microverse, code reviewers and my coding partners for there support.
