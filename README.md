@@ -1,4 +1,6 @@
-# Math-Magician-Setup
+# Math-Magician
+
+![Screenshot (127)](https://user-images.githubusercontent.com/37457094/156982073-aa6d5290-69da-458f-9a28-579860d41a4f.png)
 
 ## Tecnologies Used
 
@@ -7,18 +9,22 @@
 - Stylelint
 - Babel
 - Webpack
+- HTML
+- CSS
 
 ## Usage
 
-- start by cloning this repository by running:
+``` start by cloning this repository by running:
 
-- git@github.com:ismailakinkunmi/math-magicians-setup.git
+git@github.com:ismailakinkunmi/math-magicians-setup.git
 
-- cd to the folder
+cd to the folder
 
-- cd Project-math-magicians-setup
+cd Project-math-magicians-setup
 
-- npm install
+npm install
+
+```
 
 ## Used Available Scripts
 
@@ -32,13 +38,16 @@ Start the app in the browser at localhost:3000
 
 Builds the app for production It correctly bundles React in production mode and optimizes the build for the best performance.Your app is ready to be deployed!
 
+## This site was built using [Heroku](https://math-magician01.herokuapp.com/)
+
+## This site was built using [Netlify](https://vigilant-bell-2fb9f4.netlify.app/)
+
 ## Authors
 
 👤 **Adekunle Ismail Akinkunmi**
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
-- Twitter: [@AkinkunmiAbiola](https://twitter.com/AkinkunmiAbiola)
-- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/)
+- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
 ## Show your support
 
