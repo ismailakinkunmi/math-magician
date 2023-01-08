@@ -12,7 +12,9 @@
 - HTML
 - CSS
 
-## This site was deploy on github [click here](http://ismailakinkunmi.github.io/math-magician)
+## Live Link
+
+[click here](http://ismailakinkunmi.github.io/math-magician/)
 
 ## Usage
 
